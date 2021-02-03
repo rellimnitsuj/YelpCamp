@@ -1,5 +1,5 @@
 # YelpCamp (Work In Progress)
-Colt Steele's YelpCamp
+My take on Colt Steele's renowned YelpCamp!
 
 Think of Yelp, but for campsites! You first create an account, then you can add/edit/delete your posted campgrounds, leave a review on other people's posted campgrounds, etc.
 
